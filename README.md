@@ -285,8 +285,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   
   ### 🌟 Star this repo if you find it helpful!
   
-  Made with 💜 by the STEM Project Generator Team
+  Made with 💜 by Luna Kitsune aka Hardik Bhaskar
   
-  [🌐 Website](https://lovable.dev) • [🐦 Twitter](https://twitter.com) • [📧 Contact](mailto:contact@stemgenerator.com)
+• [🐦 Twitter](https://twitter.com) • [📧 Contact](mailto:contact@stemgenerator.com)
   
 </div>
